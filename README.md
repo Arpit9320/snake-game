@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# Snake Game
 
 A browser-based Snake Game built using **HTML, CSS, and Vanilla JavaScript**. The project recreates the classic Snake experience with dynamic grid generation, collision detection, random food spawning, score tracking, timer functionality, and persistent high-score storage using Local Storage.
 
@@ -6,7 +6,7 @@ A browser-based Snake Game built using **HTML, CSS, and Vanilla JavaScript**. Th
 
 ## Live Demo
 
-[Add your deployed project link here]
+Coming Soon
 
 ---
 
@@ -41,9 +41,9 @@ The game includes:
 
 ## Controls
 
-⬆️ Arrow Up    - Move Up
-⬇️ Arrow Down  - Move Down
-⬅️ Arrow Left  - Move Left
+⬆️ Arrow Up    - Move Up,
+⬇️ Arrow Down  - Move Down,
+⬅️ Arrow Left  - Move Left,
 ➡️ Arrow Right - Move Right
 
 ---
@@ -172,6 +172,11 @@ Through this project I gained practical experience with:
 ```text
 snake-game/
 │
+├── Screenshots/
+│   ├── Game Over Screen.png
+│   ├── Game Screen.png
+│   ├── Welcome Screen.png
+│    
 ├── index.html
 ├── style.css
 ├── script.js
