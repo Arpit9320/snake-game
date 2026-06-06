@@ -6,7 +6,7 @@ A browser-based Snake Game built using **HTML, CSS, and Vanilla JavaScript**. Th
 
 ## Live Demo
 
-Coming Soon
+Link: https://arpit9320.github.io/snake-game/
 
 ---
 
